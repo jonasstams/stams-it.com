@@ -1,0 +1,19 @@
+{
+  "name": "stams-it.com",
+  "version": "1.0.0",
+  "description": "Website of Jonas Stams.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jonas",
+    "Stams"
+  ],
+  "author": "Jonas Stams",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-route": "1.3.4"
+  }
+}
